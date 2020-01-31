@@ -1,0 +1,26 @@
+.date {
+    font-size: 12px;
+    margin-left: 5px;
+    font-weight: 600;
+    color: #2F2F2F;
+}
+.hover:hover {
+    background-color: #F9F9F9;
+    border-color: #F9F9F9;
+}
+.fa {
+    color: #2A2A2A;
+}
+.fa:hover {
+    color: #2A2A2A;
+}
+.star {
+    color: #FFA500
+}
+.heart {
+    color: #FF0000;
+}
+.btn:focus {
+    border: none;
+    outline: none;
+}

@@ -1,0 +1,10 @@
+h1 {
+    font-size: 28px;
+    color: #292929;
+    text-shadow: 0 0 3px rgba(0, 0, 0, .1);
+}
+h2 {
+    font-size: 20px;
+    color: #626262;
+    text-shadow: 0 0 3px rgba(0, 0, 0, .1);
+}
